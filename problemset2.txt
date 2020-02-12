@@ -1,0 +1,43 @@
+1. 
+problem1
+
+2.
+cd ~
+ls -l
+chmod 777 datasets/activedata
+
+3.
+Goes to home directory
+Makes directory named problem_set_1 in home directory
+Creates blank file named submission that is a text file (in home directory)
+Goes back to user directory
+Prints working directory (user directory)
+
+4. 
+cp config.txt /home /root
+mkdir -p root/preferences
+cp home/preferences/prefs.txt 
+
+5.
+mv
+cp
+Cp to original place
+
+6.
+It prints a cat picture 
+
+7.
+pip install delorean
+Delorean(datetime=datetime.datetime(2020, 1, 31, 12, 8, 14, 44466), timezone='US/Eastern')
+
+8. wget  https://finances.worldbank.org/api/views/yu93-ayrw/rows.csv?accessType=DOWNLOAD
+
+9.cat rows.csv | grep Total -c
+33 rows
+
+10.cat rows.csv | grep Total > distilledExpenditures.csv
+
+STOP HERE
+11. It looks at the number of serious delinquencies compared to other relevant factors
+12.
+
